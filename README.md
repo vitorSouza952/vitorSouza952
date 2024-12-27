@@ -1,5 +1,4 @@
 ## Olá, eu sou o Vitor! 👋
 
-- 🔭 Atualmente trabalho como Operador de Loja, porém pretendo trabalhar com desenvolvimento em breve
-- 🌱 Estou reaprendendo JavaScript no momento
-- ⚡ Meu foco é desenvolvimento para a Web
+- 🔭 Não trabalho com desenvolvimento ainda. Porém, um dia pretendo!
+- ⚡ Meu foco é desenvolvimento para a Web. Linguagens favoritas: JS e PHP.
